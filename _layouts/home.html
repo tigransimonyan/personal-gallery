@@ -4,9 +4,9 @@ layout: page
 
 {% for post in paginator.posts %}
 <!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
-<div class="row">
-  {{post.content}}
-</div>
+
+{{post.content}}
+
 {% endfor %}
 
 {% include lozad.html %}
