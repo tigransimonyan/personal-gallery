@@ -1,0 +1,28 @@
+---
+layout: null
+---
+
+<!DOCTYPE html>
+
+{% if site.lang %} {% assign lang = site.lang | split: "_" | first %} {% else %} {% assign lang =
+'en' %} {% endif %}
+
+<html lang="{{ lang }}">
+{% include head.html %}
+
+<body data-spy="scroll">
+
+  <div class="container-fluid px-5">
+    <div class="py-5">
+      <a class="h2" href="https://tigransimonyan.com">
+        <strong>tigransimonyan.com</strong>
+      </a>
+      <h5 class="pt-3">{{site.tagline}}</h5>
+    </div>
+    {% include refactor-content.html content=content %}
+    {% include footer.html %}
+  </div>
+
+</body>
+
+</html>

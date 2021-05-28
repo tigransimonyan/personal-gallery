@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="row">
+  {{ content }}
+</div>
+
+{% if page.comments %}
+{% include foo-comments.html %}
+{% endif %}
+
+{% include lozad.html %}
