@@ -13,11 +13,14 @@ layout: null
 <body data-spy="scroll">
 
   <div class="container-fluid px-sm-5">
-    <div class="py-5">
+    <div class="py-md-5 py-4">
       <a class="h2" href="https://tigransimonyan.com">
-        <strong>tigransimonyan.com</strong>
+        <strong>@տիգրան</strong>
       </a>
-      <h5 class="pt-3">{{site.tagline}} (<a href="/feed.xml">RSS</a>)</h5>
+      <!-- <h5 class="pt-3">(<a href="/feed.xml">RSS</a>)</h5> -->
+      <h2>
+        {{site.description}}
+      </h2>
     </div>
     {% include refactor-content.html content=content %}
     {% include footer.html %}
