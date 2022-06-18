@@ -12,7 +12,7 @@ layout: null
 
 <body data-spy="scroll">
 
-  <div class="container-fluid px-sm-5">
+  <div class="container px-sm-5">
     <div class="py-md-5 py-4">
       <a class="website-name h3" href="/"><strong>@տիգրան</strong></a>
       <a class="menu-item" href="https://tigransimonyan.com">Blog</a>
@@ -21,7 +21,7 @@ layout: null
         {{site.description}}
       </h2>
     </div>
-    {% include refactor-content.html content=content %}
+    {{content}}
     {% include footer.html %}
   </div>
 

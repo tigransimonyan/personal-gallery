@@ -2,7 +2,14 @@
 layout: page
 ---
 
-{% for post in paginator.posts %}
-<!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
-<h6>{{post.title}}</h6>
-{{post.content}} {% endfor %} {% include lozad.html %}
+<div class="gallery row" id="gallery">
+	{% for photo in site.data.photos %}
+	<!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
+	<div class="gallery-item col-sm-12 col-md-6 col-lg-4">
+		<div class="lozad" data-background-image="/uploads/{{photo.url}}"></div>
+	</div>
+	{% endfor %}
+</div>
+
+
+{% include lozad.html %}

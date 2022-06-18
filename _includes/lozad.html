@@ -1,37 +1,6 @@
 <!-- image lazy load: https://github.com/ApoorvSaxena/lozad.js -->
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
-
-<script
-  type="text/javascript"
-  src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"
-></script>
-<script
-  type="text/javascript"
-  src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"
-></script>
-
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-
-<script type="text/javascript">
-  var $container = $("#gallery");
-
-  $container.masonry({
-    itemSelector: ".gallery-item",
-    percentPosition: true,
-    gutter: 10,
-  });
-
-  $(function () {
-    $(".lazy").Lazy({
-      effect: "fadeIn",
-      scrollDirection: "vertical",
-      visibleOnly: true,
-      afterLoad: function (element) {
-        $container.masonry("layout");
-      },
-    });
-  });
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+<script>
+  const observer = lozad('.lozad');
+  observer.observe();
 </script>
