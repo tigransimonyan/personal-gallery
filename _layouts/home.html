@@ -3,15 +3,14 @@ layout: page
 ---
 
 <div class="gallery row" id="gallery">
-	{% for photo in site.data.photos %}
-	<!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
-	<div class="gallery-item col-sm-12 col-md-6 col-lg-4">
-		<a class="gallery-item-link" href="/uploads/{{photo.url}}" target="_blank">
-			<div class="lozad" data-background-image="/uploads/{{photo.url}}"></div>
-		</a>
-	</div>
-	{% endfor %}
+  {% for photo in site.data.photos %}
+  <!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
+  <div class="gallery-item col-sm-12 col-md-6 col-lg-4">
+    <a class="gallery-item-link" href="/uploads/{{photo.url}}" target="_blank">
+      <div class="lozad" data-background-image="/uploads/{{photo.url}}"></div>
+    </a>
+  </div>
+  {% endfor %}
 </div>
-
 
 {% include lozad.html %}
