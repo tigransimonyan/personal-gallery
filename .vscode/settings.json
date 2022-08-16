@@ -7,6 +7,10 @@
   "editor.wordWrapColumn": 100,
   "[markdown]": {
     "editor.wordWrap": "wordWrapColumn",
-    "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
   }
 }
