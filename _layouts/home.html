@@ -7,7 +7,7 @@ layout: page
   <!-- <a href="{{ post.url | relative_url }}">{{ post.title }}</a> -->
   <div class="gallery-item">
     <!-- <a class="gallery-item-link" href="{{ post.url | relative_url }}" target="_blank"> -->
-    <img class="lozad gallery-item-img" data-src="/uploads/{{photo.url}}" alt="">
+    <div class="gallery-item-img lozad" data-background-image="/uploads/{{photo.url}}"></div>
     <!-- </a> -->
   </div>
   {% endfor %}
