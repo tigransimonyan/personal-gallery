@@ -21,7 +21,7 @@ layout: null
         <link>{{ post_absolute_url }}</link>
         <description>
         {% for photo in post.photos %}
-          <img src="{{site.url}}/uploads/{{photo.url}}" />
+          <img src="{{site.url}}/uploads/{{photo}}" />
         {% endfor %}
        </description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
