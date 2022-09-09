@@ -1,4 +1,28 @@
 ---
 label: Add new photo
 hide_body: true
-fields: []
+fields:
+- name: upload_photo
+  type: file
+  config:
+    maxSize: 64
+  label: Upload Photo
+- name: camera
+  type: text
+  config:
+    required: false
+  label: Camera
+- name: film
+  type: text
+  config:
+    required: false
+  label: Film
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
