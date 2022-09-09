@@ -2,5 +2,17 @@
 layout: default
 ---
 
-{{ content }} {% if page.comments %} {% include foo-comments.html %} {% endif %}
+{{ content }}
+
+
+<h1>{{page.title}}</h1>
+<div class="gallery" id="gallery">
+	{% for photo in page.photos %}
+	<div class="gallery-item">
+		<div class="gallery-item-img lozad" data-background-image="/uploads/{{photo.url}}"></div>
+	</div>
+	{% endfor %}
+
+</div>
+
 {% include lozad.html %}
