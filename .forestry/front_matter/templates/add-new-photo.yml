@@ -1,0 +1,27 @@
+---
+label: Add new photo
+hide_body: true
+fields:
+- name: photos
+  type: image_gallery
+  config: {}
+  label: Photos
+- name: camera
+  type: text
+  config:
+    required: false
+  label: Camera
+- name: film
+  type: text
+  config:
+    required: false
+  label: Film
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
