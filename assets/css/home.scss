@@ -60,6 +60,22 @@ body {
   background-size: cover;
 }
 
+.gallery-item-img:hover .gallery-item-info {
+  opacity: 1;
+}
+
+.gallery-item-info {
+  background-color: rgba(0, 0, 0, 0.6);
+  transition: opacity 0.1s ease-in;
+  color: #fff;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 8px 12px;
+  opacity: 0;
+}
+
 .gallery-item-link {
   display: block;
   width: 100%;
