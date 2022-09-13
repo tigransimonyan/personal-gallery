@@ -2,21 +2,32 @@
 layout: page
 ---
 
-<div class="gallery" id="gallery">
+<div class="row g-5 mt-4" id="gallery">
   {% for post in site.posts %}
   {% for photo in post.photos %}
-  <div class="gallery-item">
-    <!-- href="{{ post.url | relative_url }}" target="_blank" -->
-    <div class="gallery-item-img lozad" title="{{post.camera}} | {{post.film}} | {{post.date | date: " %-d %b %Y"}}"
-      data-background-image="{{photo}}">
-      <!-- <div class="gallery-item-info">
-        <p class="small m-0"><i class="bi bi-camera mr-2"></i>{{post.camera}}</p>
-        <p class="small m-0"><i class="bi bi-film mr-2"></i>{{post.film}}</p>
-        <p class="small m-0"><i class="bi bi-calendar4-week mr-2"></i>{{post.date | date: "%-d %B %Y"}}</p>
-      </div> -->
+  <div class="col-sm-12 col-md-6 col-lg-4">
+    <div class="ratio ratio-1x1">
+      <img class="gallery-item-img rounded-2 lozad"
+        title="{{post.camera}} | {{post.film}} | {{post.date | date: '%-d %b %Y'}}" data-src="{{photo}}" />
     </div>
+    <!-- href="{{ post.url | relative_url }}" target="_blank" -->
+    <!-- <div class="gallery-item-info">
+      <p class="small m-0"><i class="bi bi-camera mr-2"></i>{{post.camera}}</p>
+      <p class="small m-0"><i class="bi bi-film mr-2"></i>{{post.film}}</p>
+      <p class="small m-0"><i class="bi bi-calendar4-week mr-2"></i>{{post.date | date: "%-d %B %Y"}}</p>
+    </div> -->
   </div>
   {% endfor %}
+  <!-- <div class="col-sm-12 col-md-6 col-lg-4">
+    <div class="ratio ratio-1x1">
+      <div class="d-flex flex-column justify-content-center align-items-center">
+        <h5>{{post.title}}</h5>
+        <h5>{{post.date | date: '%-d %b %Y'}}</h5>
+        <h5>{{post.camera}}</h5>
+        <h5>{{post.film}}</h5>
+      </div>
+    </div>
+  </div> -->
   {% endfor %}
 </div>
 
