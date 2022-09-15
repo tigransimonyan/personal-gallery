@@ -20,9 +20,9 @@ body {
 
 .gallery-item-info {
   transition: opacity 0.1s ease-in;
-  color: rgb(0, 0, 0);
+  font-weight: 600;
   font-size: 12px;
-  font-weight: bold;
+  color: #000;
 }
 
 .gallery-item-link {
