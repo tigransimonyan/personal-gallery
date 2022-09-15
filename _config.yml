@@ -14,7 +14,8 @@ baseurl: ''
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Yerevan
 
-paginate: 30
+paginate: 5
+paginate_path: '/page-:num/'
 
 markdown: kramdown
 
