@@ -15,8 +15,10 @@ layout: null
       <h2 class="bio">{{site.description}}</h2>
     </div>
     <nav class="nav justify-content-center mt-4">
-      <a class="nav-link text-decoration-underline text-dark" href="/">gallery</a>
-      <a class="nav-link text-decoration-underline text-secondary" href="/about">about</a>
+      <a class="nav-link text-decoration-underline {% if page.url == '/' %} text-dark {% else %} text-secondary {% endif %}"
+        href="/">gallery</a>
+      <a class="nav-link text-decoration-underline {% if page.url == '/about' %} text-dark {% else %} text-secondary {% endif %}"
+        href="/about">about</a>
       <a class="nav-link text-decoration-underline text-secondary" href="/feed.xml">rss</a>
     </nav>
     {{content}} {% include footer.html %}
