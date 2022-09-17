@@ -17,6 +17,8 @@ timezone: Asia/Yerevan
 paginate: 5
 paginate_path: '/page-:num/'
 
+include: ['_pages']
+
 markdown: kramdown
 
 highlighter: rouge
