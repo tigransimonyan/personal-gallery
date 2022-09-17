@@ -22,7 +22,7 @@ layout: page
 {% if paginator.next_page or paginator.previous_page %}
 <div class="d-flex pt-5 pb-4 justify-content-center align-items-center">
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="fs-6 d-block px-3 text-decoration-none">
+  <a href="{{ paginator.next_page_path }}" class="fs-6 d-block px-2 text-decoration-none">
     ← older photos
   </a>
   {% else %}
@@ -32,7 +32,7 @@ layout: page
   {% endif %}
   /
   {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="fs-6 d-block px-3 text-decoration-none">
+  <a href="{{ paginator.previous_page_path }}" class="fs-6 d-block px-2 text-decoration-none">
     newer photos →
   </a>
   {% else %}
