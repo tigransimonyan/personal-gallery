@@ -1,5 +1,5 @@
 ---
-label: Add new photo
+label: Add new photos
 hide_body: true
 fields:
 - name: photos
