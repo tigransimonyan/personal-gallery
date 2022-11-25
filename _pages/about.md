@@ -7,13 +7,14 @@ permalink: /about
 <div class="py-5">
 <div class="row justify-content-center">
 <div class="col-sm-12 col-md-7 col-lg-4">
-Hiiii (:
+Heeeey (:
 <br/><br/>
 I am a researcher living in Armenia. This website is intended to showcase my research on places, people and buildings.
 
 <br/>
+<br/>
 
-As you can guess, I don't use enterprise, mass platforms. So you can follow me via rss or <a href="mailto:tigran@def.am?subject=բարե՜ւ տիգրան">ask me</a> about my<a href="https://joinmastodon.org/" target="_blank"> mastodon</a> profile.
+As you can guess, I don't use enterprise, mass platforms. So you can follow me via rss or <a href="mailto:tigran@def.am?subject=բարե՜ւ տիգրան">ask me</a> about my <a href="https://joinmastodon.org/" target="_blank"> mastodon</a> profile.
 <br/><br/>
 Other links:
 <br/><br/>
