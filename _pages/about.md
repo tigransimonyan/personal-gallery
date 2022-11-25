@@ -7,10 +7,17 @@ permalink: /about
 <div class="py-5">
 <div class="row justify-content-center">
 <div class="col-sm-12 col-md-7 col-lg-4">
-Heeeey (:
+Hiiii (:
 <br/><br/>
-I am a researcher living in Armenia. This website is intended to showcase my research on places, people and buildings. But that's not all. You can find my other works on the links below.
+I am a researcher living in Armenia. This website is intended to showcase my research on places, people and buildings.
+
+<br/>
+
+As you can guess, I don't use enterprise, mass platforms. So you can follow me via rss or ask me about my<a href="https://joinmastodon.org/" target="_blank"> mastodon</a> profile.
 <br/><br/>
+Other links:
+<br/><br/>
+
 <ul>
 	<li>
 		<a href="https://joinrave.com" target="_blank">https://joinrave.com</a>
