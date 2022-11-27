@@ -14,7 +14,7 @@ I am a researcher living in Armenia. This website is intended to showcase my res
 <br/>
 <br/>
 
-As you can guess, I don't use enterprise, mass platforms. So you can follow me via <a href="https://tigransimonyan.com/feed.xml" target="_blank">rss</a> or <a target="_blank" href="mailto:tigran@def.am?subject=բարե՜ւ տիգրան">ask me</a> about my <a href="https://joinmastodon.org/" target="_blank"> mastodon</a> profile.
+As you can guess, I don't use enterprise, mass platforms. So you can follow me via <a href="https://tigransimonyan.com/feed.xml" target="_blank">rss</a> or <a target="_blank" href="mailto:tigran@def.am?subject=բարե՜ւ տիգրան">ask me</a> about my <a href="https://joinmastodon.org/" target="_blank"> mastodon</a> microblog.
 <br/><br/>
 Other links:
 <br/><br/>
