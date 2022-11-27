@@ -9,7 +9,7 @@ permalink: /about
 <div class="col-sm-12 col-md-7 col-lg-4">
 Heeeey (:
 <br/><br/>
-I am a researcher living in Armenia. This website is intended to showcase my research on places, people and buildings.
+I am a researcher living in Armenia. This website is intended to showcase my research on film photography, people and places.
 
 <br/>
 <br/>
