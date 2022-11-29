@@ -53,8 +53,9 @@ fields:
     required: true
     date_format: YYYY-MM-DD
     time_format: hh:mm:ss
-    display_utc: true
+    display_utc: false
     export_format: YYYY-MM-DD hh:mm:ss
+  default: now
 - name: description
   type: textarea
   default: ''
