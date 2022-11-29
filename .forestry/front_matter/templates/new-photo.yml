@@ -66,5 +66,6 @@ fields:
       format: markdown
   label: Description
 pages:
+- _posts/2022-10-07-film-7-5.md
 - _posts/2022-10-07-film-7-6.md
 - _posts/2022-10-07-film-7-7.md
