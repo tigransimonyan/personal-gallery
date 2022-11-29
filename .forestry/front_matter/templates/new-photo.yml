@@ -65,3 +65,5 @@ fields:
     schema:
       format: markdown
   label: Description
+pages:
+- _posts/2022-10-07-film-7-7.md
