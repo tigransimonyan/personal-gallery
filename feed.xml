@@ -20,9 +20,7 @@ layout: null
         <title>{{ post.title | xml_escape}}</title>
         <link>{{ post_absolute_url }}</link>
         <description>
-        {% for photo in post.photos %}
-          <img src="{{site.url}}{{photo}}" />
-        {% endfor %}
+        <img src="{{site.url}}{{post.photo}}" />
        </description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <guid isPermaLink="true">{{ post_absolute_url }}</guid>
