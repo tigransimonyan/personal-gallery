@@ -40,22 +40,16 @@ fields:
       file: 
       path: 
   label: Camera
+- name: date
+  type: text
+  config:
+    required: true
+  label: Date
 - name: location
   type: text
   config:
     required: true
   label: Location
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: true
-    date_format: YYYY-MM-DD
-    time_format: hh:mm:ss
-    display_utc: false
-    export_format: YYYY-MM-DD hh:mm:ss
-  default: now
 - name: description
   type: textarea
   default: ''
