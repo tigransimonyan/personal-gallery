@@ -32,12 +32,6 @@ Other links:
 	<li>
 		<a href="https://github.com/tigransimonyan" target="_blank">https://github.com/tigransimonyan</a>
 	</li>
-	<li>
-		<a href="https://github.com/foo-comments" target="_blank">https://github.com/foo-comments</a>
-	</li>
-	<li>
-		<a href="https://github.com/bararan-hay" target="_blank">https://github.com/bararan-hay</a>
-	</li>
 </ul>
 </div>
 </div>
