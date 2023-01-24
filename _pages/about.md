@@ -32,6 +32,9 @@ Other links:
 	<li>
 		<a href="https://github.com/tigransimonyan" target="_blank">https://github.com/tigransimonyan</a>
 	</li>
+	<li>
+		<a href="https://բառարան.հայ" target="_blank">https://բառարան.հայ</a>
+	</li>
 </ul>
 </div>
 </div>
