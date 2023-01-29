@@ -6,25 +6,24 @@ permalink: /about
 
 <div class="py-5">
 <div class="row justify-content-center">
-<div class="col-sm-12 col-md-7 col-lg-4">
-Heeeey (:
+<div class="col-sm-12 col-md-7 col-lg-6 col-xl-4">
+Heeeeey!
 <br/><br/>
 I am a researcher living in Armenia. This website is intended to showcase my research on film photography, people and places.
 
 <br/>
 <br/>
 
-As you can guess, I don't use enterprise, mass platforms. So you can follow me via <a href="https://tigransimonyan.com/feed.xml" target="_blank">rss</a> or <a target="_blank" href="mailto:tigran@def.am?subject=բարե՜ւ տիգրան">ask me</a> about my <a href="https://joinmastodon.org/" target="_blank"> mastodon</a> microblog.
-<br/><br/>
-Other links:
-<br/><br/>
+You probably found this page because you couldn't find any information about me on popular social networks. Mainly because the pop platforms provided by the big corporations are trying to manipulate my news feed and ban my freedom of speech.
+In the meantime, I continue to maintain my online presence using <a href="https://joinmastodon.org/" target="_blank">Mastodon</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XMPP">XMPP</a>, <a target="_blank" href="https://writefreely.org/">WriteFreely</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/RSS">RSS</a>, etc.
+
+<br/><br/><br/>
+
+<h6>Other links:</h6>
 
 <ul>
 	<li>
 		<a href="https://joinrave.com" target="_blank">https://joinrave.com</a>
-	</li>
-	<li>
-		<a href="https://soundcloud.com/joinrave" target="_blank">https://soundcloud.com/joinrave</a>
 	</li>
 	<li>
 		<a href="https://vsco.co/tigransimonyan" target="_blank">https://vsco.co/tigransimonyan</a>
@@ -36,6 +35,17 @@ Other links:
 		<a href="https://բառարան.հայ" target="_blank">https://բառարան.հայ</a>
 	</li>
 </ul>
+
+<h6>Contacts:</h6>
+<ul>
+	<li>
+		email: tigran@def.am
+	</li>	
+	<li>
+		jabber: tigran@jabber.am
+	</li>
+</ul>
+
 </div>
 </div>
 
