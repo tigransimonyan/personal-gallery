@@ -14,7 +14,7 @@ I am a researcher living in Armenia. This website is intended to showcase my res
 <br/>
 <br/>
 
-You probably found this page because you couldn't find any information about me on popular social networks. I don't use pop platforms because they are provided by large corporations who are trying to manipulate my news feed and ban my freedom of speech.
+You probably found this page because you couldn't find any other information about me on popular social networks. I don't use pop platforms because they are provided by large corporations who are trying to manipulate my news feed and ban my freedom of speech.
 In the meantime, I continue to maintain my online presence using <a href="https://joinmastodon.org/" target="_blank">Mastodon</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XMPP">XMPP</a>, <a target="_blank" href="https://writefreely.org/">WriteFreely</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/RSS">RSS</a>, etc.
 
 <br/><br/><br/>
