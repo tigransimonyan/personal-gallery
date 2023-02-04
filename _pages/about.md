@@ -42,7 +42,7 @@ In the meantime, I continue to maintain my online presence using <a href="https:
 		email: tigran@def.am
 	</li>	
 	<li>
-		jabber: tigran@jabber.am
+		jabber: tigran@jabber.def.am
 	</li>
 </ul>
 
