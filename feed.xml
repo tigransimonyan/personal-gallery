@@ -21,7 +21,7 @@ layout: null
         <title>{{ post.title | xml_escape}}</title>
         <link>{{ post_absolute_url }}</link>
         <description>
-        {{imageTag}}
+        {{imageTag | xml_escape}}
        </description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <guid isPermaLink="true">{{ post_absolute_url }}</guid>
