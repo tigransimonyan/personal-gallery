@@ -21,8 +21,11 @@ layout: null
         <title>{{ post.title | xml_escape}}</title>
         <link>{{ post_absolute_url }}</link>
         <description>
-        {{imageTag | xml_escape}}
-       </description>
+          {{imageTag | xml_escape}}
+        </description>
+        <category>{{ post.location | xml_escape }}</category>
+        <category>{{ post.film | xml_escape }}</category>
+        <category>{{ post.camera | xml_escape }}</category>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <guid isPermaLink="true">{{ post_absolute_url }}</guid>
       </item>
