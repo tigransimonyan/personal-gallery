@@ -16,11 +16,12 @@ layout: null
     <copyright> © {{ 'now' | date: '%Y' }} {{ site.author }} </copyright>
     {% for post in site.posts limit: 30 %}
       {% assign post_absolute_url = site.url | append: post.url | url_decode %}
+      {% assign imgTag = '<img src="{{site.url}}{{post.photo}}" />' %}
       <item>
         <title>{{ post.title | xml_escape}}</title>
         <link>{{ post_absolute_url }}</link>
         <description>
-        {{ '<img src="{{site.url}}{{post.photo}}" />' | xml_escape }}
+        {{ imgTag | xml_escape }}
        </description>
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <guid isPermaLink="true">{{ post_absolute_url }}</guid>
