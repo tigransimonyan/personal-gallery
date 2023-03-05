@@ -33,6 +33,9 @@ In the meantime, I continue to maintain my online presence using <a href="https:
 	</li>
 	<li>
 		<a href="https://բառարան.հայ" target="_blank">https://բառարան.հայ</a>
+	</li>	
+	<li>
+		<a href="https://def.am/" target="_blank">https://def.am</a>
 	</li>
 </ul>
 
