@@ -15,6 +15,8 @@ body {
   background-color: rgb(80, 70, 3);
 }
 
+
+
 .gallery-item-img:hover .gallery-item-info {
   opacity: 1;
 }
@@ -27,8 +29,7 @@ body {
 }
 
 .gallery-item-link {
-  display: block;
-  width: 100%;
+ 
 }
 
 .avatar {
@@ -58,9 +59,13 @@ body {
 .bio {
   font-size: 14px;
   font-weight: 400;
+  line-height: 1.5;
   color: #aaa;
   margin-top: 16px;
   margin-bottom: 0;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .date-time {
@@ -79,3 +84,4 @@ body {
 .spl-prev{
  display: none;
 }
+
