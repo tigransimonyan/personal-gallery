@@ -4,10 +4,9 @@ layout: page
 
 <div class="row gx-5 gy-4 mt-4" id="gallery">
   {% for post in paginator.posts %}
-  <div class="col-sm-12 col-md-6 col-lg-4">
+  <div class="gallery-item col-sm-12 col-md-6 col-lg-4">
     <div class="ratio ratio-1x1">
-      <img class="gallery-item-img rounded-2 lozad spotlight" data-animation="slide,fade"
-        data-description="{{post.description}}"
+      <img class="gallery-item-img lozad spotlight" data-animation="slide,fade" data-description="{{post.description}}"
         title="{{post.date | date: '%b %Y'}} · {{post.location}} · {{post.camera}} · {{post.film}} "
         data-src="{{post.photo}}" />
     </div>

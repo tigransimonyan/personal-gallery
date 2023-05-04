@@ -16,7 +16,6 @@ body {
 }
 
 
-
 .gallery-item-img:hover .gallery-item-info {
   opacity: 1;
 }
@@ -85,3 +84,26 @@ body {
  display: none;
 }
 
+.gallery-item{
+  // position: relative;
+  // &:after, 
+  // &:before{
+  //   position: absolute;
+  //   content: "";
+  //   background-image: url(/assets/img/rectangle.svg);
+  //   left: 0;
+  //   right: 0;
+  //   background-position: center;
+  //   pointer-events: none;
+  //   background-size: 31px 15px;
+  //   height: 15px;
+  //   background-repeat: repeat-x;
+  //   z-index: 2;
+  // }
+  // &:after{
+  //   top: 20px;
+  // }
+  // &:before{
+  //   bottom: 50px;
+  // }
+}
