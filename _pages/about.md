@@ -18,9 +18,6 @@ I'm a researcher, programmer, film photographer, and open-source contributor liv
 When I'm not working on my projects, you can find me exploring my love for electronic music and attending festivals, delving into philosophical and psychological discussions, practicing meditation, and taking leisurely walks to clear my mind. I also enjoy blogging about my experiences and thoughts on a wide range of topics. I write using <a href="https://en.wikipedia.org/wiki/Classical_Armenian_orthography" target="_blank">classical Armenian orthography</a> because I believe it is more beautiful and correct for the Armenian language.
 
 <br/><br/>
-As someone who loves diving deep into technical details, I've contributed to various open-source projects, constantly seeking new challenges and opportunities to expand my skillset.
-
-<br/><br/>
 Overall, I'm a bit of a nerd and a weird guy, but that's just who I am. I'm proud of my unique perspective and love sharing it with others who are passionate about the same things.
 
 <br/><br/>
