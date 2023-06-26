@@ -41,9 +41,6 @@ Thanks for stopping by!
 	<li>
 		<a href="https://բառարան.հայ" target="_blank">https://բառարան.հայ</a>
 	</li>	
-	<li>
-		<a href="https://def.am/" target="_blank">https://def.am</a>
-	</li>
 </ul>
 
 <h6>Contacts:</h6>
