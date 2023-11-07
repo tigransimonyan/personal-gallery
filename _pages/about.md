@@ -11,15 +11,11 @@ permalink: /about
 <div class="about-me">
 Hi there!
 <br/><br/>
-I'm a researcher, programmer, film photographer, and open-source contributor living in Armenia. As someone who values freedom of speech, I prefer to avoid using pop platforms that are controlled by large corporations and instead opt for more independent options such as <a href="https://joinmastodon.org/" target="_blank">Mastodon</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XMPP">XMPP</a>, <a target="_blank" href="https://writefreely.org/">WriteFreely</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/RSS">RSS</a>, etc.
-
+I'm a researcher, programmer, film photographer, and open-source contributor living in Armenia. Balancing life between the analog charm of film photography and the digital world of computers.
 <br/><br/>
-
-When I'm not working on my projects, you can find me exploring my love for electronic music and attending festivals, delving into philosophical and psychological discussions, practicing meditation, and taking leisurely walks to clear my mind. I also enjoy blogging about my experiences and thoughts on a wide range of topics. I write using <a href="https://en.wikipedia.org/wiki/Classical_Armenian_orthography" target="_blank">classical Armenian orthography</a> because I believe it is more beautiful and correct for the Armenian language.
-
+I also enjoy blogging about my experiences and thoughts on a wide range of topics.
 <br/><br/>
-Overall, I'm a bit of a nerd and a weird guy, but that's just who I am. I'm proud of my unique perspective and love sharing it with others who are passionate about the same things.
-
+As someone who values freedom of speech, I prefer to avoid using pop platforms that are controlled by large corporations and instead opt for more independent options such as <a href="https://joinmastodon.org/" target="_blank">Mastodon</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/XMPP">XMPP</a>, <a target="_blank" href="https://writefreely.org/">WriteFreely</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/RSS">RSS</a>, etc.
 <br/><br/>
 Thanks for stopping by!
 <br/><br/><br/>
