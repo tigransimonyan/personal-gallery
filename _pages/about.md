@@ -45,7 +45,7 @@ Thanks for stopping by!
 		email: tigran@def.am
 	</li>	
 	<li>
-		jabber: tigran@jabber.def.am
+		xmpp: tigran@jabber.def.am
 	</li>
 </ul>
 
