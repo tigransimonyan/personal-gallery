@@ -14,7 +14,9 @@ layout: default
 			<h6>📍 {{page.location}}</h6>
 			<h6>🎞️ {{page.film}}</h6>
 			<h6>📷 {{page.camera}}</h6>
+			{% if page.description != '' %}
 			<h6>📃 {{page.description}}</h6>
+			{% endif %}
 		</div>
 	</div>
 	<div class="col-sm-12 col-md-2 col-lg-2"></div>
