@@ -15,7 +15,6 @@ body {
   background-color: rgb(80, 70, 3);
 }
 
-
 .gallery-item-img:hover .gallery-item-info {
   opacity: 1;
 }
@@ -28,7 +27,10 @@ body {
 }
 
 .gallery-item-link {
- 
+  color: #000;
+  &:hover {
+    color: #000;
+  }
 }
 
 .avatar {
@@ -78,15 +80,14 @@ body {
   font-size: 12px;
 }
 
-
-.spl-next, 
-.spl-prev{
- display: none;
+.spl-next,
+.spl-prev {
+  display: none;
 }
 
-.gallery-item{
+.gallery-item {
   // position: relative;
-  // &:after, 
+  // &:after,
   // &:before{
   //   position: absolute;
   //   content: "";
