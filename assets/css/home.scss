@@ -15,6 +15,17 @@ body {
   background-color: rgb(80, 70, 3);
 }
 
+.instax {
+  background-color: #000;
+}
+
+.instax .gallery-item-img {
+  background-color: #000;
+  object-fit: contain;
+  height: 90%;
+  top: 5%;
+}
+
 .gallery-item-img:hover .gallery-item-info {
   opacity: 1;
 }
