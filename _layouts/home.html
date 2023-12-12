@@ -12,10 +12,9 @@ layout: page
     </div>
     <!-- href="{{ post.url | relative_url }}" target="_blank" -->
     <div class="gallery-item-info py-2">
-      <a class="gallery-item-link" href="{{ post.url | relative_url }}">{{post.date | date:
-        "%m/%Y"}}</a> ·
-      {{post.film}} ·
-      {{post.camera}}
+      - <a class="gallery-item-link" href="{{ post.url | relative_url }}">{{post.date | date:
+        "%b %Y"}}</a> -
+
     </div>
   </div>
   {% endfor %}

@@ -7,10 +7,10 @@ layout: default
 <div class="row mt-5" id="gallery">
 	<div class="col-sm-12 col-md-2 col-lg-2"></div>
 	<div class="col-sm-12 col-md-8 col-lg-8">
-		<img class="gallery-item-img rounded-2 lozad"
-			title="{{post.camera}} | {{post.film}} | {{post.date | date: '%-d %b %Y'}}" data-src="{{page.photo}}" />
+		<img class="gallery-item-img lozad" title="{{post.camera}} | {{post.film}} | {{post.date | date: '%-d %b %Y'}}"
+			data-src="{{page.photo}}" />
 		<div class="mt-4">
-			<h6>🗓️ {{page.date | date: "%m/%Y"}}</h6>
+			<h6>🗓️ {{page.date | date: "%b %Y"}}</h6>
 			<h6>📍 {{page.location}}</h6>
 			<h6>🎞️ {{page.film}}</h6>
 			<h6>📷 {{page.camera}}</h6>

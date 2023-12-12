@@ -9,6 +9,10 @@ body {
   background-color: #fff;
 }
 
+h6 {
+  font-size: 14px;
+}
+
 .gallery-item-img {
   object-fit: cover;
   cursor: zoom-in;
@@ -32,6 +36,7 @@ body {
 
 .gallery-item-info {
   transition: opacity 0.1s ease-in;
+  text-align: right;
   font-weight: 600;
   font-size: 12px;
   color: #000;
@@ -39,8 +44,10 @@ body {
 
 .gallery-item-link {
   color: #000;
+  text-decoration: none;
   &:hover {
     color: #000;
+    text-decoration: underline;
   }
 }
 
