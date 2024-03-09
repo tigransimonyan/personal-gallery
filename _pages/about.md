@@ -24,16 +24,13 @@ Thanks for stopping by!
 
 <h6>Other links:</h6>
 
-<ul>
+<ul style="line-height: 30px;">
 	<li>
 		<a href="https://joinrave.com" target="_blank">https://joinrave.com</a>
 	</li>	
 	<li>
-		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a>
-	</li>		
-	<li>
-		<a href="https://patreon.com/zoomment" target="_blank">https://patreon.com/zoomment</a>
-	</li>	
+		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a> ~ [<a href="https://patreon.com/zoomment" target="_blank">donate</a>]
+	</li>
 	<li>
 		<a href="https://www.producthunt.com/@tigransimonyan" target="_blank">https://www.producthunt.com/@tigransimonyan</a>
 	</li>
