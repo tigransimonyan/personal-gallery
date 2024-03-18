@@ -12,8 +12,8 @@ layout: default
 		<div class="mt-4">
 			<h6>🗓️ {{page.date | date: "%b %Y"}}</h6>
 			<h6>📍 {{page.location}}</h6>
-			<h6>🎞️ {{page.film}}</h6>
-			<h6>📷 {{page.camera}}</h6>
+			<h6>🎞️ {{ site.data.films[page.film] }}</h6>
+			<h6>📷 {{ site.data.cameras[page.camera]}}</h6>
 			{% if page.description != '' %}
 			<h6>📃 {{page.description}}</h6>
 			{% endif %}
