@@ -29,10 +29,7 @@ Thanks for stopping by!
 		<a href="https://joinrave.com" target="_blank">https://joinrave.com</a>
 	</li>	
 	<li>
-		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a> ~ [<a href="https://patreon.com/zoomment" target="_blank">donate</a>]
-	</li>
-	<li>
-		<a href="https://www.producthunt.com/@tigransimonyan" target="_blank">https://www.producthunt.com/@tigransimonyan</a>
+		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a>
 	</li>
 	<li>
 		<a href="https://vsco.co/tigransimonyan" target="_blank">https://vsco.co/tigransimonyan</a>
