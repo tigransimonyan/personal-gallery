@@ -22,7 +22,7 @@ Thanks for stopping by!
 
 </div>
 
-<h6>Other links:</h6>
+<h6>My projects:</h6>
 
 <ul style="line-height: 30px;">
 	<li>
@@ -30,6 +30,9 @@ Thanks for stopping by!
 	</li>	
 	<li>
 		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a>
+	</li>
+	<li>
+		<a href="https://analog.am" target="_blank">https://analog.am</a>
 	</li>
 	<li>
 		<a href="https://vsco.co/tigransimonyan" target="_blank">https://vsco.co/tigransimonyan</a>
