@@ -32,10 +32,7 @@ Thanks for stopping by!
 		<a href="https://zoomment.com" target="_blank">https://zoomment.com</a>
 	</li>
 	<li>
-		<a href="https://analog.am" target="_blank">https://analog.am</a>
-	</li>
-	<li>
-		<a href="https://vsco.co/tigransimonyan" target="_blank">https://vsco.co/tigransimonyan</a>
+		<a href="https://analog.am/tigran" target="_blank">https://analog.am</a>
 	</li>
 	<li>
 		<a href="https://github.com/tigransimonyan" target="_blank">https://github.com/tigransimonyan</a>
